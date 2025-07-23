@@ -21,3 +21,5 @@ Pwnbox contains base scripts for easily setting up sec tools using docker avoidi
 
 - Ffuf (fast web fuzzer) : https://github.com/ffuf/ffuf
 - Gobuster (Web fuzzer) : https://github.com/OJ/gobuster
+- WpScan (Wordpress enumeration tool) : https://github.com/wpscanteam/wpscan
+- CrackMapExec (swiss army knife for pentesting) : https://github.com/byt3bl33d3r/CrackMapExec
