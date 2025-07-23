@@ -27,7 +27,7 @@ echo "--------------------------------------------------"
 echo -e "${RESET}"
 
 if docker pull wpscanteam/wpscan; then
-    echo -e "${GREEN}✅ Docker image pull successfully.${RESET}"
+    echo -e "${GREEN}✅ Docker image pulled successfully.${RESET}"
     docker run -it --rm wpscanteam/wpscan --help
 else
     echo -e "${RED}❌ Docker build failed.${RESET}"
