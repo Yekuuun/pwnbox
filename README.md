@@ -23,3 +23,5 @@ Pwnbox contains base scripts for easily setting up sec tools using docker avoidi
 - Gobuster (Web fuzzer) : https://github.com/OJ/gobuster
 - WpScan (Wordpress enumeration tool) : https://github.com/wpscanteam/wpscan
 - CrackMapExec (swiss army knife for pentesting) : https://github.com/byt3bl33d3r/CrackMapExec
+
+- Neko (secure virtual web browser) : https://neko.m1k1o.net/docs/v3/installation
